@@ -1,4 +1,4 @@
-# D3-Challeng - Data Journalism and D3
+# D3-Challenge - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
